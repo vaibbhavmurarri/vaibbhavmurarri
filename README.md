@@ -58,11 +58,11 @@
 <div align="center">
   <a href="https://x.com/VaibbhavMurarri" target="_blank">
     <img
-      src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white"
+      src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white&label="
       height="32"
-      alt="X / Twitter"
     />
   </a>
+
 
 
   <a href="https://github.com/vaibbhavmurarri" target="_blank">
